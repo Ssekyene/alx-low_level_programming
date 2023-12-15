@@ -6,3 +6,5 @@
 2. Generates the assembly code of a C code and save it in an output file
 
 3. Compiles a C file and creates an executable named "cisfun"
+
+4. A C program that prints exactly ""Programming is like building a multilingual puzzle", followed by a new line.
