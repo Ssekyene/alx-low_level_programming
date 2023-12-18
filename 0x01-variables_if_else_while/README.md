@@ -24,7 +24,11 @@
 	+ Prints only the smallest combination of two digits
 	+ Numbers are printed in ascending order, with two digits
 
-101. prints all possible different combinations of three digits.
+101. Prints all possible different combinations of three digits.
 	+ The three digits are different
 	+ Prints only the smallest combination of three digits
 	+ Numbers are printed in ascending order, with two digits
+
+102. Prints all possible combinations of two two-digit numbers.
+	+ The numbers range from 0 to 99.
+	+ All numbers are printed with two digits. 1 is printed as 01.
