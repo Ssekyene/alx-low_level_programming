@@ -5,3 +5,5 @@
 2. This program prints the alphabet in lowercase, followed by a new line.
 
 3. This program prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+
+4. This program prints the alphabet in lowercase, followed by a new line. Prints all the letters except q and e.
