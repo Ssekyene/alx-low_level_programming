@@ -18,3 +18,8 @@
 8. Prints all the numbers of base 16 in lowercase, followed by a new line.
 
 9. Prints all possible combinations of single-digit numbers.
+
+10. Prints all possible different combinations of two digits.
+	+ 01 and 10 are considered the same combination of the two digits 0 and 1
+	+ Prints only the smallest combination of two digits
+	+ Numbers should be printed in ascending order, with two digits
