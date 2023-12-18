@@ -1,13 +1,16 @@
-0. This program will assign a random number to the variable n each time it is executed and print whether the number is positive, negative or zero.
+## variables, if, else and while statement programs
+0. Assigns a random number to the variable n each time it is executed and print whether the number is positive, negative or zero.
 
-1. This program will assign a random number to the variable n each time it is executed and print the last digit of the number stored in the variable n.
+1. Assigns a random number to the variable n each time it is executed and print the last digit of the number stored in the variable n.
 
-2. This program prints the alphabet in lowercase, followed by a new line.
+2. Prints the alphabet in lowercase, followed by a new line.
 
-3. This program prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+3. Prints the alphabet in lowercase, and then in uppercase, followed by a new line.
 
-4. This program prints the alphabet in lowercase, followed by a new line. Prints all the letters except q and e.
+4. Prints the alphabet in lowercase, followed by a new line. Prints all the letters except q and e.
 
-5. This program prints all single digit numbers of base 10 starting from 0, followed by a new line.
+5. Prints all single digit numbers of base 10 starting from 0, followed by a new line.
 
-6. This program prints all single digit numbers of base 10 starting from 0, followed by a new line. Characters representing digits are printed instead.
+6. Prints all single digit numbers of base 10 starting from 0, followed by a new line. Characters representing digits are printed instead.
+
+7. Prints the lowercase alphabet in reverse, followed by a new line.
