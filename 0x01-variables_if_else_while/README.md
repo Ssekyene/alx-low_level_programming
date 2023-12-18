@@ -19,7 +19,12 @@
 
 9. Prints all possible combinations of single-digit numbers.
 
-10. Prints all possible different combinations of two digits.
+100. Prints all possible different combinations of two digits.
 	+ 01 and 10 are considered the same combination of the two digits 0 and 1
 	+ Prints only the smallest combination of two digits
-	+ Numbers should be printed in ascending order, with two digits
+	+ Numbers are printed in ascending order, with two digits
+
+101. prints all possible different combinations of three digits.
+	+ The three digits are different
+	+ Prints only the smallest combination of three digits
+	+ Numbers are printed in ascending order, with two digits
