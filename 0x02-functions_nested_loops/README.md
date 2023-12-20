@@ -12,3 +12,5 @@
 5. Prints the sign of a number.
 
 6. Computes the absolute value of an integer.
+
+7. Prints the last digit of a number.
