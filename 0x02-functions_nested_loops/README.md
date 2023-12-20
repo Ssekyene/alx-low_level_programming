@@ -8,3 +8,5 @@
 3. Checks for lowercase character.
 
 4. Checks for alphabetic character.
+
+5. Prints the sign of a number.
