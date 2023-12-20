@@ -20,3 +20,5 @@
 9. Prints the 9 times table, starting with 0.
 
 10. Adds two integers and returns the result.
+
+11. Prints all natural numbers from n to 98, followed by a new line.
