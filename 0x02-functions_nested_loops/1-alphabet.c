@@ -1,8 +1,9 @@
 #include "main.h"
 /**
-*print_alphabet - prints alphabets in lowercase
-*@void: nothing to put
-*Return: Nothing
+* print_alphabet - prints alphabets in lowercase
+* @void: nothing to put
+*
+* Return: Nothing
 */
 void print_alphabet(void)
 {
@@ -10,8 +11,8 @@ void print_alphabet(void)
 
 	while (alpha <= 'z')
 	{
-	_putchar(alpha);
-	alpha++;
+		_putchar(alpha);
+		alpha++;
 	}
-_putchar('\n');
+	_putchar('\n');
 }
