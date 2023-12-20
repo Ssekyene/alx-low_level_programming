@@ -20,7 +20,7 @@ void print_times_table(int n)
 				multiple = i * j;
 				if (n == 0)
 					printf("%d\n", multiple);
-				if (j != n)
+				else if (j != n)
 				{
 					if (j == 0) /*the multiple will always be 0 when j=0*/
 						printf("%d,", multiple);
