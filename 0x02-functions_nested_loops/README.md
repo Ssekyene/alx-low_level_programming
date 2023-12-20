@@ -22,3 +22,5 @@
 10. Adds two integers and returns the result.
 
 11. Prints all natural numbers from n to 98, followed by a new line.
+
+100. Prints the n times table, starting with 0.
