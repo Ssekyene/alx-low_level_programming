@@ -1,9 +1,10 @@
 #include "main.h"
 /**
-*print_alphabet_x10 - prints alphabets from a-z 10 times
-*@void: enters nothing
-*Return: nothing
-*/
+ * print_alphabet_x10 - prints alphabets from a-z 10 times
+ * @void: enters nothing
+ *
+ * Return: nothing
+ */
 void print_alphabet_x10(void)
 {
 	int i = 0;
@@ -18,6 +19,6 @@ void print_alphabet_x10(void)
 			alpha++;
 		}
 		_putchar('\n');
-		i++;
+	i++;
 	}
 }
