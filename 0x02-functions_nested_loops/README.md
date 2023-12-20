@@ -4,3 +4,5 @@
 1. Prints the alphabet, in lowercase, followed by a new line.
 
 2. Prints 10 times the alphabet, in lowercase, followed by a new line.
+
+3. Checks for lowercase character.
