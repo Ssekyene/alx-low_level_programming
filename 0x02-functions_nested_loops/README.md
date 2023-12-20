@@ -30,3 +30,5 @@
 102. Prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
 
 103. Finds and prints the sum of the even-valued terms below 4,000,000 of the fibonacci sequence, followed by a new line.
+
+104. Finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
