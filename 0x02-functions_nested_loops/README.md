@@ -24,3 +24,5 @@
 11. Prints all natural numbers from n to 98, followed by a new line.
 
 100. Prints the n times table, starting with 0.
+
+101. Computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
