@@ -26,3 +26,5 @@
 100. Prints the n times table, starting with 0.
 
 101. Computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
+
+102. Prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
