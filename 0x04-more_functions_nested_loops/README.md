@@ -6,3 +6,5 @@
 2. Multiplies two integers.
 
 3. Prints the numbers, from 0 to 9, followed by a new line.
+
+4. Prints the numbers, from 0 to 9, followed by a new line.
