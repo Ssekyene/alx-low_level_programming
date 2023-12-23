@@ -22,3 +22,5 @@
 10. Prints a triangle, followed by a new line.
 
 100. Finds and prints the largest prime factor of the number 612852475143, followed by a new line.
+
+101. Prints an integer.
