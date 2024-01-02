@@ -16,3 +16,5 @@
 6. A function that prints every even indexed character of a string, starting with the first character, followed by a new line.
 
 7. A function that prints half of a string, followed by a new line.
+
+8. A function that prints _n_ elements of an array of integers, followed by a new line.
