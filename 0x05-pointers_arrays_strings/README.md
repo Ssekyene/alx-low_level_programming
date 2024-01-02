@@ -10,3 +10,5 @@
 3. A function that prints a string, followed by a new line, to _stdout_.
 
 4. A function that prints a string, in reverse, followed by a new line.
+
+5. A function that reverses a string. 
