@@ -1,2 +1,2 @@
 # C - Pointers, arrays and strings
-![Snaphot](snaphort.jpg)
+![Snaphot](Snaphot.PNG)
