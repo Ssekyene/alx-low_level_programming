@@ -22,3 +22,5 @@
 8. Prints _n_ elements of an array of integers, followed by a new line.
 
 9. Copies the string pointed to by _src_, including the terminating null byte _(\0)_, to the buffer pointed to by _dest_.
+
+100. Converts a string to an integer.
