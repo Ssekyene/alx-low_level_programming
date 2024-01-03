@@ -24,3 +24,5 @@
 9. Copies the string pointed to by _src_, including the terminating null byte _(\0)_, to the buffer pointed to by _dest_.
 
 100. Converts a string to an integer.
+
+101. Generates random valid passwords for the program [101-crackme](101-crackme).
