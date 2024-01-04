@@ -12,3 +12,5 @@
 4. Reverses the content of an array of integers.
 
 5. Changes all lowercase letters of a string to uppercase.
+
+6. Capitalizes all words of a string.
