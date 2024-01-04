@@ -17,17 +17,18 @@ int _strlen(char *s)
 }
 
 /**
- * _strcat - concatenate two strings
+ * _strncat - concatenate two strings with at most n bytes from source
  * @dest: destination string
  * @src: source string
- * Return: Concatenated dest
+ * @n: maximum number of bytes to concatenate
+ * Return: Concatenated destination string
  */
-char *_strcat(char *dest, char *src)
+char *_strncat(char *dest, char *src, int n)
 {
 	int i, length_dest;
 
 	length_dest = _strlen(dest);
-	for (i = 0; src[i] != '\0'; i++)
+	for (i = 0; i < n && src[i] != '\0'; i++)
 		dest[length_dest + i] = src[i];
 	dest[length_dest + i] = '\0';
 	return (dest);
