@@ -6,3 +6,5 @@
 1. Concatenates two strings with at most _n_ bytes from _src_.
 
 2. Copies a string with _n_ bytes from _src_.
+
+3. Compares two strings.
