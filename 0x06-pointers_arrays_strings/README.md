@@ -3,4 +3,6 @@
 
 0. Concatenates two strings.
 
-1. Concatenates two strings with at most n bytes from _src_.
+1. Concatenates two strings with at most _n_ bytes from _src_.
+
+2. Copies a string with _n_ bytes from _src_.
