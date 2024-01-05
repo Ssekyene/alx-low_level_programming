@@ -14,3 +14,5 @@
 5. Changes all lowercase letters of a string to uppercase.
 
 6. Capitalizes all words of a string.
+
+7. Encodes a string into _1337_.
