@@ -3,7 +3,7 @@
 /**
  * leet - use 1337 to change string
  * @str: parameter string
- * Return: modifies string
+ * Return: modified string
  */
 char *leet(char *str)
 {
@@ -16,6 +16,8 @@ char *leet(char *str)
 		for (j = 0; characters[j] != '\0'; j++)
 		{
 			if (str[i] == characters[j])
+				/*map even-odd pairs of indices in characters array*/
+				/*to singular indices in num arrary in a respective order*/
 				str[i] = num[j / 2] + '0';
 		}
 	}
