@@ -18,3 +18,5 @@
 7. Encodes a string into _1337_.
 
 100. Encodes a string using _rot13_.
+
+101. Prints an integer.
