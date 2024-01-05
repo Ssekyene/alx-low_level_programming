@@ -24,3 +24,5 @@
 102. Added one line to this code at line 19, so that the program prints _a[2] = 98_.
 
 103. Adds two numbers inform of characters.
+
+104. Prints a buffer.
