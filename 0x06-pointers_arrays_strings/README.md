@@ -20,3 +20,5 @@
 100. Encodes a string using _rot13_.
 
 101. Prints an integer.
+
+102. Added one line to this code at line 19, so that the program prints _a[2] = 98_.
