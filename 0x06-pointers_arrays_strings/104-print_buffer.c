@@ -36,6 +36,7 @@ void print_buffer(char *b, int size)
 			else
 				printf(".");
 		}
+		printf("\n");
 	}
 	if (size <= 0)
 		printf("\n");
