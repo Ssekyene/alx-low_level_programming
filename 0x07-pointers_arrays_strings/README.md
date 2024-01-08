@@ -1,5 +1,5 @@
 # C - Even more pointers, arrays and strings
-![snaphot](Snaphot.PNG)  
+![snapshot](Snapshot.PNG)  
 
 **The following are functions the implement pointers, arrays and strings:**
 
