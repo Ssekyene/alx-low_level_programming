@@ -16,3 +16,5 @@
 5. Locates a substring.
 
 6. Prints the chessboard.
+
+7. Prints the sum of the two diagonals of a square matrix of integers.
