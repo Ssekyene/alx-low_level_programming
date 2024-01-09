@@ -20,3 +20,5 @@
 7. Prints the sum of the two diagonals of a square matrix of integers.
 
 100. Sets the value of a pointer to a char.
+
+101. Contains the password for the `crackme2` executable.
