@@ -14,3 +14,5 @@
 4. Searches a string for any of a set of bytes.
 
 5. Locates a substring.
+
+6. Prints the chessboard.
