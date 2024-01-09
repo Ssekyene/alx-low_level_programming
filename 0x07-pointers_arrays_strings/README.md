@@ -10,3 +10,5 @@
 2. Locates a character in a string.
 
 3. Gets the length of a prefix substring.
+
+4. Searches a string for any of a set of bytes.
