@@ -6,3 +6,5 @@
 0. Fills memory with a constant byte.
 
 1. Copies memory area.
+
+2. Locates a character in a string.
