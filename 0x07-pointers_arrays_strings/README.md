@@ -8,3 +8,5 @@
 1. Copies memory area.
 
 2. Locates a character in a string.
+
+3. Gets the length of a prefix substring.
