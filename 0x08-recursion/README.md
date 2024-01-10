@@ -8,3 +8,5 @@
 1. Prints a string in reverse.
 
 2. Returns the length of a string.
+
+3. Returns the factorial of a given number.
