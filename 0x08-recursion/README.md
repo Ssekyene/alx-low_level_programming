@@ -18,3 +18,5 @@
 6. Returns _1_ if the input integer is a prime number, otherwise return _0_.
 
 100. Returns _1_ if a string is a palindrome and _0_ if not.
+
+101. Compares two strings and returns _1_ if the strings can be considered identical, otherwise return _0_.
