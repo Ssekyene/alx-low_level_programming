@@ -14,3 +14,5 @@
 4. Returns the value of _x_ raised to the power of _y_.
 
 5. Returns the natural square root of a number.
+
+6. Returns _1_ if the input integer is a prime number, otherwise return _0_.
