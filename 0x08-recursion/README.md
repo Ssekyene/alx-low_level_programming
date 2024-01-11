@@ -16,3 +16,5 @@
 5. Returns the natural square root of a number.
 
 6. Returns _1_ if the input integer is a prime number, otherwise return _0_.
+
+100. Returns _1_ if a string is a palindrome and _0_ if not.
