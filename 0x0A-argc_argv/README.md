@@ -8,3 +8,5 @@ This directory demonstrates how command line arguments can be used in different 
  2. Prints all arguments it receives.
 
  3. Multiplies two numbers.
+
+ 4. Adds positive numbers.
