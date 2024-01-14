@@ -10,14 +10,12 @@
  */
 int main(int argc, char *argv[])
 {
-	int i, sum = 0;
+	int i, j, sum = 0;
 	char *arg;
 
 	for (i = 1; i < argc; i++)
 	{
 		arg = argv[i];
-		int j;
-
 		for (j = 0; arg[j] != '\0'; j++)
 		{
 			if (j == 0 && arg[j] == '-')
