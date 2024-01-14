@@ -6,3 +6,5 @@ This directory demonstrates how command line arguments can be used in different 
  1. Prints the number of arguments passed into it.
 
  2. Prints all arguments it receives.
+
+ 3. Multiplies two numbers.
