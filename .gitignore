@@ -1,0 +1,10 @@
+0x09-static_libraries/*.c
+0x00-hello_world/main.c
+0x00-hello_world/main.s
+0x00-hello_world/q
+0x00-hello_world/quote
+0x00-hello_world/size32
+0x00-hello_world/size64
+0x01-variables_if_else_while/102-print_comb5
+0x05-pointers_arrays_strings/101-keygen
+0x09-static_libraries/liball.a
