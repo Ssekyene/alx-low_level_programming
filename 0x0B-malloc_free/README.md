@@ -6,3 +6,5 @@ This directory includes programs with functions that implement malloc and free w
 1. Returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter.
 
 2. Concatenates two strings.
+
+3. Returns a pointer to a 2 dimensional array of integers.
