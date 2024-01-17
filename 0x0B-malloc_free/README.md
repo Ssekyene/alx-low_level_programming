@@ -12,3 +12,5 @@ This directory includes programs with functions that implement malloc and free w
 4. Frees a 2 dimensional grid previously created by your `alloc_grid` function.
 
 100. Concatenates all the arguments of your program.
+
+101. Splits a string into words.
