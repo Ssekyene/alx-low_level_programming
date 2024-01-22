@@ -6,3 +6,7 @@
 1. Concatenates two strings.
 
 2. Allocates memory for an array, using malloc.
+
+3. Creates an array of integers.
+
+4. Reallocates a memory block using _malloc_ and _free_.
