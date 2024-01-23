@@ -10,3 +10,5 @@
 2. A function that prints a `struct dog`.
 
 3. A function that creates a new dog.
+
+4. A function that frees dogs.
