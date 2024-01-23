@@ -6,3 +6,5 @@
 - [dog.h](./dog.h) is a header file to be shared by the programs in the directory.
 
 1. A function that initialize a variable of type `struct dog`.
+
+2. A function that prints a `struct dog`.
