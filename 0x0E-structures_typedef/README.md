@@ -4,3 +4,5 @@
 **This contains implementations of _struct_ and _typedef_.**
 
 - [dog.h](./dog.h) is a header file to be shared by the programs in the directory.
+
+1. A function that initialize a variable of type `struct dog`.
