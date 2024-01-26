@@ -3,6 +3,11 @@
 /**
  * print_all - prints parameters
  * @format: string containing keychars that specify variable type
+ *
+ * Description - c: char
+ *		   - i: integer
+ *		   - f: float
+ *		   - s: char *
  */
 void print_all(const char * const format, ...)
 {
