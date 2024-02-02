@@ -10,3 +10,5 @@
 2. Adds a new node at the beginning of a `list_t` list.
 
 3. Adds a new node at the end of a `list_t` list.
+
+4. Frees a `list_t` list.
