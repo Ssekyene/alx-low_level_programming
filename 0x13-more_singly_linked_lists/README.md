@@ -11,3 +11,5 @@
 2. Adds a new node at the beginning of a `listint_t` list.
 
 3. Adds a new node at the end of a `listint_t` list.
+
+4. Frees a `listint_t` list.
