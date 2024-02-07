@@ -19,3 +19,5 @@
 6. Deletes the head node of a `listint_t` linked list, and returns the head node’s data (n).
 
 7. Returns the nth node of a `listint_t` linked list.
+
+8. Returns the sum of all the data (n) of a `listint_t` linked list.
