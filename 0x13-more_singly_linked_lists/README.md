@@ -30,4 +30,6 @@
 
 101. Frees a `listint_t` list.
 
-102. Frees a `listint_t` list.
+102. Frees a `listint_t` list.i
+
+103. Finds the loop in a linked list.
