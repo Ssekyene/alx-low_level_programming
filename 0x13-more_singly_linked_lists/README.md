@@ -29,3 +29,5 @@
 100. Reverses a `listint_t` linked list.
 
 101. Frees a `listint_t` list.
+
+102. Frees a `listint_t` list.
