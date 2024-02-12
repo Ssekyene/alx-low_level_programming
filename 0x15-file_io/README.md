@@ -2,3 +2,5 @@
 **This includes functions that manipulate files:**
 
 0. Reads a text file and prints it to the `POSIX` standard output.
+
+1. Creates a file.
