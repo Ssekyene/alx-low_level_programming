@@ -6,3 +6,6 @@
 1. Creates a file.
 
 2. Appends text at the end of a file.
+
+3. A program that copies the content of a file to another file.
+	- Usage: `cp file_from file_to`
