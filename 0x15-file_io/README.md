@@ -11,5 +11,5 @@
 	- Usage: `cp file_from file_to`
 
 100. A program that displays the information contained in the `ELF` header at the start of an `ELF` file.
-	- Usage: `elf_header elf_filename`
-	- man `elf`, `readelf`
+        - Usage: `elf_header elf_filename`
+        - man `elf`, `readelf`
